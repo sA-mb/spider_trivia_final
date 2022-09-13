@@ -21,7 +21,7 @@ iniciar_spider_trivia = True
 intentos = 1
 score = 0
 
-print(RED+"Bienvenido a la Spider-Trivia!!!"+RESET)
+print(RED+"Bienvenid@ a la Spider-Trivia!!!"+RESET)
 
 #funciones que limpian pantalla
 def limpieza ():
